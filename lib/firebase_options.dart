@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTREJETzcup7ELYF9uYBHQrz0qUvqRs44',
-    appId: '1:340047693711:web:d78f9dc9a2dad9ba5a6dfa',
-    messagingSenderId: '340047693711',
-    projectId: 'firebase-video-call-webrtc',
-    authDomain: 'fir-video-call-webrtc.firebaseapp.com',
-    storageBucket: 'firebase-video-call-webrtc.appspot.com',
+    apiKey: 'AIzaSyDwTwKCV1s946PLThLLxjfke8WiMsA5y1w',
+    appId: '1:624799993742:web:b628efe35b1e79d7925edf',
+    messagingSenderId: '624799993742',
+    projectId: 'example-video-office-robot',
+    authDomain: 'example-video-office-robot.firebaseapp.com',
+    storageBucket: 'example-video-office-robot.appspot.com',
+    measurementId: 'G-NDLBM5B88V',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA05KPMeRCE4V8xnT2YeLpPlPLQm5gtxgM',
-    appId: '1:340047693711:android:65c14573347575a15a6dfa',
-    messagingSenderId: '340047693711',
-    projectId: 'firebase-video-call-webrtc',
-    storageBucket: 'firebase-video-call-webrtc.appspot.com',
+    apiKey: 'AIzaSyDPp3Jx9IunBpu_7nFS6JalGuKSSsORBr8',
+    appId: '1:624799993742:android:fff390e91227aa44925edf',
+    messagingSenderId: '624799993742',
+    projectId: 'example-video-office-robot',
+    storageBucket: 'example-video-office-robot.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBaUePsfg75I-tkLW_r8c-a1vIyjYcsApo',
-    appId: '1:340047693711:ios:3fc08586602f0f4d5a6dfa',
-    messagingSenderId: '340047693711',
-    projectId: 'firebase-video-call-webrtc',
-    storageBucket: 'firebase-video-call-webrtc.appspot.com',
-    iosClientId: '340047693711-kn33imgei727fd4fsrnn8qc536rhuiep.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDKp4PZEIyOw46VlxRoRRGarTccbu-pFgw',
+    appId: '1:624799993742:ios:909f9a93bdb50050925edf',
+    messagingSenderId: '624799993742',
+    projectId: 'example-video-office-robot',
+    storageBucket: 'example-video-office-robot.appspot.com',
     iosBundleId: 'it.maionemiky.flutterFirebaseVideoCallWebrtc',
   );
 }
